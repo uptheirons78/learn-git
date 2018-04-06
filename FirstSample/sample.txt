@@ -1,1 +1,2 @@
 First line on the first sample
+Second line: on another branch > first-branch
